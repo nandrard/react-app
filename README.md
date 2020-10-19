@@ -1,21 +1,51 @@
-![React Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/react.svg)
+# Creating mirrors in react-three-fiber & threejs
 
-# React Example
+A short tutorial on how to create a mirrors scene with the react-three-fiber ecosystem.
 
-This directory is a brief example of a [React](https://reactjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
+By Marco Ludovico Perego and Gianmarco Simone
 
-## Deploy Your Own
+![Featured Image](https://github.com/emmelleppi/codrops-r3f-mirrors/blob/master/screenshot.jpg?raw=true)
 
-Deploy your own React project, along with Serverless Functions, with Vercel.
+[Article on Codrops](https://tympanus.net/codrops/?p=51167)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/create-react-app-functions)
+[Demo](http://tympanus.net/Tutorials/Mirrors/)
 
-_Live Example: https://create-react-app.now-examples.now.sh/_
+## Installation
 
-### How We Created This Example
+Install dependencies:
 
-To get started with React, along with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction), with Vercel, you can use the [Create-React-App CLI](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app) to initialize the project:
-
-```shell
-$ npx create-react-app my-app
 ```
+yarn
+```
+
+Compile the code for development and start a local server:
+
+```
+yarn start
+```
+
+Create the build:
+
+```
+yarn build
+```
+
+## Credits
+
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+- [three.js](https://threejs.org/)
+- [React](https://reactjs.org/)
+
+## Misc
+
+Follow Marco Ludovico Perego: [Twitter](https://twitter.com/mlperego), [GitHub](https://github.com/emmelleppi)
+
+Follow Gianmarco Simone: [Twitter](https://twitter.com/ggsimm), [GitHub](https://github.com/gsimone)
+
+Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
+
+## License
+
+[MIT](LICENSE)
+
+Made with :blue_heart: by [Codrops](http://www.codrops.com)
