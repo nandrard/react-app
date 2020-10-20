@@ -1,49 +1,51 @@
-# Typography Motion Effect
+# Creating mirrors in react-three-fiber & threejs
 
-The demo for the tutorial on how to recreate a letter stagger animation with GSAP and Splitting.js, based on [Thibaud Allie's](https://dribbble.com/thibaudallie) work as seen on [Dani Morales](http://www.danimorales-style.com/).
+A short tutorial on how to create a mirrors scene with the react-three-fiber ecosystem.
 
-![Typography Motion](https://tympanus.net/codrops/wp-content/uploads/2020/06/TypographyMotion_featured.jpg)
+By Marco Ludovico Perego and Gianmarco Simone
 
-[Article on Codrops](https://tympanus.net/codrops/?p=50136)
+![Featured Image](https://github.com/emmelleppi/codrops-r3f-mirrors/blob/master/screenshot.jpg?raw=true)
 
-[Demo](http://tympanus.net/Tutorials/TypographyMotion/)
+[Article on Codrops](https://tympanus.net/codrops/?p=51167)
 
+[Demo](http://tympanus.net/Tutorials/Mirrors/)
 
 ## Installation
 
 Install dependencies:
 
 ```
-npm install
+yarn
 ```
 
 Compile the code for development and start a local server:
 
 ```
-npm start
+yarn start
 ```
 
 Create the build:
 
 ```
-npm run build
+yarn build
 ```
 
 ## Credits
 
-- Recreation of the animation seen on http://www.danimorales-style.com/ designed by [Thibaud Allie](https://dribbble.com/thibaudallie).
-- Image by [Silviu Beniamin Tofan](https://unsplash.com/@tofansilviuben) from [Unsplash.com](https://unsplash.com/)
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+- [three.js](https://threejs.org/)
+- [React](https://reactjs.org/)
 
-## Misc 
+## Misc
+
+Follow Marco Ludovico Perego: [Twitter](https://twitter.com/mlperego), [GitHub](https://github.com/emmelleppi)
+
+Follow Gianmarco Simone: [Twitter](https://twitter.com/ggsimm), [GitHub](https://github.com/gsimone)
 
 Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
 
 ## License
+
 [MIT](LICENSE)
 
 Made with :blue_heart: by [Codrops](http://www.codrops.com)
-
-
-
-
-
